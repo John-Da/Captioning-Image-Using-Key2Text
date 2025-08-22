@@ -13,6 +13,9 @@ Automatically caption images by combining YOLOv9 panoptic segmentation with Key2
 - YoloV9 Panoptic (PreTrained Model)
 - KeyToText (PerTrained Model)
 
+> [!Note]
+> Some tweaks and version checks will be required for KeyToText Model to function properly.
+
 ### Demo Result:
 
 <img width="1512" height="944" alt="Screenshot 2025-08-05 at 2 30 39 PM" src="https://github.com/John-Da/Captioning-Image-Using-Key2Text/blob/main/result.png"/>
